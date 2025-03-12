@@ -12,3 +12,8 @@
  # Website URL
 
  http://onlinecareercounseling.infinityfreeapp.com/
+
+# Login information 
+
+username: Alex
+Password: alexKanu
